@@ -22,7 +22,7 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #252a3e;
+  --background-primary: #252a3e; 
   --background-secondary: #1e2337;
   --background-secondary-alt: #1c2438;
   --background-secondary-alt-alt: #1b1d31;
